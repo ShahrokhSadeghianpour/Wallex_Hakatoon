@@ -1,0 +1,23 @@
+{
+  "config.py": "f376551ed5ee681c88e5d6031fc3ac305b43e490e04396103b1b61510acbeffb",
+  "pro_core.py": "96d9339dcffa736c01f63dfa09c5f8d501e10a62a7449c34407a70101a8d7d90",
+  "wallex_client.py": "199edf17389dc811421b24ce61c5c347c0157a698d7b823deb3fd4b77197144a",
+  "market_data.py": "d886a6ed3f2fd5aeed3ad13b5fba1d6f95c580d0e3dbc87d7fd0f79acad4c7cd",
+  "state.py": "c4b6b5c8856172a46943816ae6c68a5fb44cf63568e6f473123c9c69c8598204",
+  "execution.py": "85e9bab30304bfacef0a22af9aa350fdfd69b7ea21c45548b5ca61b08371ffed",
+  "ai_agent.py": "aef0be7dbc3f3bf84e158f2869e9d840b01e2259fb61d3c9fef27483714a92f9",
+  "wallex_live_agent.py": "c5634411fdb6b0b2e7607a2e8fd4b13ea407991be7180bcb7630953206ff7b53",
+  "reference/original_sanitized.py": "d36cd3c046c9389a7ab0c02fe26bceae6b9c32fbe79ebfc077a960e6da40f501",
+  "wallex_pro_backtest.py": "79aacf3dca71e4d2a4ba79d5842fb2fc63a7f20b8c2fe161b7a351ff9c18da77",
+  "backtest.py": "78040926106a943b405f307fb0a8a20c956de0025e3a62f5c0f74b295730b072",
+  "test_all.py": "dafd2e90cd236066208244d0db238538fb5b4eced096ba0fa335cb4cfc3ecf4f",
+  ".env.example": "7d6f709e1473466c54b12d18573626df68593cbe0bb6c95bb1946788ba966b0b",
+  "requirements.txt": "d70f5b2ca232af05e5b1a060deb24a4587ca1997184671c7855d3183e2af36f2",
+  ".gitignore": "fc35ba390dd0bf36cce866e69a72b8ffa4e8ad1adb44c16982d6e84357419abf",
+  "RUN_TESTS.bat": "982c24bb2dd0af974c3c4256b6472b82b4826eda6a1bfff9294134f374545340",
+  "START_SHADOW.bat": "9f4006ba325411e770464888b5815e28fc592470054de1a234333d2534ca9b78",
+  "collect_results.py": "70e80ba61cd36c8b6dc047b4629c7c944056b483820dd0b55d8ac90111a0193d",
+  "README.md": "3093e7f342eb2dcab89dca95ee72870815875dd5f78bbd65eeabf32d9906c205",
+  "validation/LOCAL_TEST_REPORT.json": "53ca78adb69d86ae4da06d0a0969bfb34cae4e9eec1313b47207d2e66bc116c4",
+  "validation/BUILD_INFO.json": "6037ae4ccba0b76dff2711aab0c422c250598e5d7f03e1e14099d1b3fe0ee56d"
+}

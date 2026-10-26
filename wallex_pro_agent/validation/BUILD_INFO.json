@@ -1,0 +1,9 @@
+{
+  "source_reference_sha256": "35b64ea811346dabaf2a70e2528597aaead9bc7c228276c194973c769abb3843",
+  "tests_run": 38,
+  "passed": true,
+  "real_network_calls": 0,
+  "real_orders_sent": 0,
+  "live_disabled_by_default": true,
+  "scope": "Independent Pro agent package. Network/account acceptance requires operator probe/shadow."
+}

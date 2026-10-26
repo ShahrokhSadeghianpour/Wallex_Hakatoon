@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "tests_run": 38,
+  "errors": [],
+  "failures": [],
+  "real_network_calls": 0,
+  "real_orders_sent": 0,
+  "ai_calls": 0,
+  "versions": {
+    "numpy": "2.2.6",
+    "pandas": "2.3.3",
+    "requests": "2.32.5"
+  }
+}
